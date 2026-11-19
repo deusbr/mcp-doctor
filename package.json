@@ -8,7 +8,7 @@
   },
   "scripts": {
     "check": "node --check index.cjs && node --check bin/mcp-doctor.cjs && node --check lib/audit.cjs && node --check lib/probe.cjs && node --check tests/mcp-doctor.test.cjs",
-    "test": "node --test tests/*.test.cjs"
+    "test": "node --test tests/mcp-doctor.test.cjs"
   },
   "keywords": [
     "mcp",
