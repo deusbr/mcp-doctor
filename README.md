@@ -1,5 +1,7 @@
 # mcp-doctor
 
+[![mcp-doctor MCP server](https://glama.ai/mcp/servers/@deusbr/mcp-doctor/badges/score.svg)](https://glama.ai/mcp/servers/@deusbr/mcp-doctor)
+
 [![CI](https://github.com/deusbr/mcp-doctor/actions/workflows/ci.yml/badge.svg)](https://github.com/deusbr/mcp-doctor/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Node.js >= 18](https://img.shields.io/badge/node-%3E%3D18.0.0-339933?logo=node.js&logoColor=white)](package.json)
